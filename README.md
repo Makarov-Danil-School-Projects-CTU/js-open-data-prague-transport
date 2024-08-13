@@ -1,3 +1,5 @@
+Keywords: JavaScript, Async, Requests, Parsing, DOM
+
 📝 Task Objective: List PIT stops (Prague Integrated Transport)
 
 Your task is to implement the solution in the provided main.js file.
